@@ -11,6 +11,5 @@ git clone git://github.com/parabuzzle/resume.git
 
 **Run My Program**
 ```
-cd resume
-ruby heijmans.rb
+ruby resume/heijmans.rb
 ```
