@@ -117,7 +117,7 @@ def main
   puts "Mobile: (415) 963-1565"
   puts "parabuzzle@gmail.com"
   puts "http://parabuzzle.github.io"
-  puts "Principle Engineer"
+  puts "Principal Engineer"
   puts ""
   puts "###~~~OBJECTIVE~~~###"
   puts @objective
