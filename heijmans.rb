@@ -9,8 +9,7 @@ require 'base64'
 # load my objective
 @objective = "To combine my knowledge and experience of high availability 
 large-scale systems and technologies with my \"big picture\" thinking and 
-outside-the-box mentality to build awesome maintainable applications with 
-Ruby, Rails, and cloud services."
+outside-the-box mentality to build awesome maintainable applications."
 
 # url for formal resume
 @formal_resume = "http://s3.amazonaws.com/mikeheymans/dltmp/resume-heijmans.pdf"
@@ -119,7 +118,7 @@ def list_commands
   end
   puts " - profiles"
   puts " - open_source_projects"
-  puts " - download_resume"
+  #puts " - download_resume"
   puts " - listall"
   puts " - help"
   puts " - print majestic mustang"
