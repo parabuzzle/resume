@@ -21,12 +21,12 @@ outside-the-box mentality to build awesome maintainable applications."
 @my_apps = ['Rails', 'Git', 'Github', 'Hadoop', 'HBase', 'MySQL', 'Apache', 'Postfix', 'Memcache', 'Tibco EMS', 'ActiveMQ', 'Subversion', 'Cassandra', 'Jenkins', 'Zookeeper']
 @my_services = ['Heroku', 'Amazon S3', 'Amazon EC2', 'Amazon SQS', 'Amazon SES']
 @my_protocols = ['TCP/IP', 'SMTP', 'IMAP', 'HTTP', 'FTP', 'NFS']
-@my_misc_knowledge = ['REST', 'Cron', 'JSON', 'YAML', 'IRC', 'Test Driven Development', 'Agile', 'KanBan', 'Leadership', 'Mentorship']
+@my_misc_knowledge = ['REST', 'Cron', 'JSON', 'YAML', 'IRC', 'Test Driven Development', 'Agile', 'KanBan', 'Leadership', 'Mentorship', 'Nerdy Jokes']
 
 # Job history
-@my_jobs = ["Yahoo! - Senior Service Engineer for Y!Mail (May 12-Present)", 
-        "Yahoo! - Service Engineering Manager for Y!Mail (Dec 10-May 12)",
-        "Yahoo! - Senior Service Engineer for Y!Communites (June 08-Dec 10)",
+@my_jobs = ["Yahoo! - Senior Service Engineer for Yahoo Mail Metadata and Search (May 12-Present)", 
+        "Yahoo! - Service Engineering Manager for Yahoo Mail Search (Dec 10-May 12)",
+        "Yahoo! - Senior Service Engineer for Yahoo Communites (June 08-Dec 10)",
         "techTribe Networks - Senior Operations Engineer (May 07-June 08)",
         "Neoteric Production Group - Systems Administrators (Feb 04-Dec 06)",
         "Fleeman, Anderson, and Bird Corp - Accounts Specialist (Nov 04- Nov 05)"]
