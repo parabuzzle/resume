@@ -18,8 +18,8 @@ outside-the-box mentality to build awesome maintainable applications."
 # Skills
 @my_languages = ['RUBY', 'RAILS', 'Javascript', 'C', 'Objective-C', 'Bash']
 @my_operating_systems = ['Red Hat Linux', 'Ubuntu Linux', 'FreeBSD']
-@my_apps = ['Rails', 'Git', 'Github', 'Hadoop', 'HBase', 'MySQL', 'Apache', 'Postfix', 'Memcache', 'Tibco EMS', 'ActiveMQ', 'Subversion', 'Cassandra', 'Jenkins', 'Zookeeper']
-@my_services = ['Heroku', 'Amazon S3', 'Amazon EC2', 'Amazon SQS', 'Amazon SES']
+@my_apps = ['Rails', 'Git', 'Github', 'Redis', 'rspec', 'Capybara', 'Guard', 'Hadoop', 'HBase', 'MySQL', 'Apache', 'Postfix', 'Memcache', 'Tibco EMS', 'ActiveMQ', 'Subversion', 'Cassandra', 'Jenkins', 'Zookeeper']
+@my_services = ['Heroku', 'Amazon S3', 'Amazon EC2', 'Amazon SQS', 'Amazon SES', 'Redis', 'Amazon Cloudfront']
 @my_protocols = ['TCP/IP', 'SMTP', 'IMAP', 'HTTP', 'FTP', 'NFS']
 @my_misc_knowledge = ['REST', 'Cron', 'JSON', 'YAML', 'IRC', 'Test Driven Development', 'Agile', 'KanBan', 'Leadership', 'Mentorship', 'Nerdy Jokes']
 
@@ -32,7 +32,10 @@ outside-the-box mentality to build awesome maintainable applications."
         "Fleeman, Anderson, and Bird Corp - Accounts Specialist (Nov 04- Nov 05)"]
 
 # Open Source Projects    
-@my_opensource_projects = {"Spunk - The Irc Bot Framework" => "http://parabuzzle.github.io/spunk", 
+@my_opensource_projects = {"humanize_boolean - Adds humanize method to booleans" => "http://parabuzzle.github.io/humanize_boolean",
+                          "Yelp4Rails - Adds activerecord type interaction for yelp v2 api" => "http://parabuzzle.github.io/yelp4rails",
+                          "Credstore - A library for working with encrpyted strings in RSA" => "http://parabuzzle.github.io/credstore",
+                          "Spunk - The Irc Bot Framework" => "http://parabuzzle.github.io/spunk", 
                           "Bender - The Irc Bot application" => "http://parabuzzle.github.io/bender",
                           "HypeText - Dirty little Ruby HTTP client" => "http://parabuzzle.github.io/hypetext",
                           "Pickle Podcast Webapp - The Rails app that runs my podcast site" => "http://github.com/parabuzzle/picklepodcast",
